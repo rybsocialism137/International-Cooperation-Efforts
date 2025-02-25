@@ -1,2 +1,1 @@
-# International-Cooperation-Efforts
-читать
+Библиотека для работы с бухгалтерским учетом
